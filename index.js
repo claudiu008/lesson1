@@ -25,7 +25,7 @@ const tellFortune = (N, Z, Y, X) => {
 
 tellFortune(3, "Emanuela", "Italia", "Programator");
 
-// 3. Folosind instrucțiunea JavaScript switch se va obține ziua săptămânii
+// 3. Folosind instrucțiunea JavaScript "switch" se va obține ziua săptămânii
 
 const getDayOfWeek = (dayNum) => {
   switch (dayNum) {
